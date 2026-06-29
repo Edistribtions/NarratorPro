@@ -1,0 +1,38 @@
+#.gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments
+.venv/
+.venv313/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Build
+build/
+dist/
+*.spec
+
+# Logs
+logs/*.log
+
+# Generated output
+output/
+*.mp3
+*.wav
+*.m4b
+
+# Temporary
+*.tmp
+*.bak
+
+# OS
+Thumbs.db
+.DS_Store

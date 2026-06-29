@@ -1,0 +1,5 @@
+[project]
+name="narratorpro"
+version="0.1.0a1"
+requires-python=">=3.13"
+dependencies=["pypdf>=5.0"]
